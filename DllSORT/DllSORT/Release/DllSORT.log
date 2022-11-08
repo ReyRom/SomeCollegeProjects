@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+C:\Users\Roman\Documents\Code\DllSORT\DllSORT\Source.cpp(19,22): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Roman\Documents\Code\DllSORT\Release\DllSORT.lib и объект C:\Users\Roman\Documents\Code\DllSORT\Release\DllSORT.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DllSORT.vcxproj -> C:\Users\Roman\Documents\Code\DllSORT\Release\DllSORT.dll
