@@ -1,0 +1,5 @@
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\publish\FileSort.exe
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\publish\FileSort.dll
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\publish\FileSort.deps.json
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\publish\FileSort.runtimeconfig.json
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\publish\FileSort.pdb

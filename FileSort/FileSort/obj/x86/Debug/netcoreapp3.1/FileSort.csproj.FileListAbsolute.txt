@@ -1,0 +1,16 @@
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.exe
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.deps.json
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.runtimeconfig.json
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.runtimeconfig.dev.json
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.dll
+C:\Users\Roman\Documents\Code\FileSort\FileSort\bin\x86\Debug\netcoreapp3.1\FileSort.pdb
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.Main.resources
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.csproj.GenerateResource.cache
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.AssemblyInfo.cs
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.dll
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.pdb
+C:\Users\Roman\Documents\Code\FileSort\FileSort\obj\x86\Debug\netcoreapp3.1\FileSort.genruntimeconfig.cache
